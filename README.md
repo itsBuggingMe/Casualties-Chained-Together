@@ -10,14 +10,20 @@ Download the mod from the [Nexus](https://www.nexusmods.com/scavprototype/mods/4
 chaintogether [player] [player] [length]
 ```
 Chains two players together. Length is optional and defaults to 12. You can specify a player by name or id, same conventions as the multiplayer mod.
+
+
 ```
 deletechain [player|all] [player]
 ```
 Deletes a chain between two players, or deletes all chains with `deletechain all`
+
+
+
 ```
 setchainphysics [setting] [value]
 ```
-Lets you change chain physics settings at runtime. Changes are not persissted.
+Lets you change chain physics settings at runtime. Changes are not persisted.
+
 
 ## Chain physics settings
 Once you first load up the game, a settings.json file is generated in the same directory as the mod .dll, `BepInEx\plugins\ChainedTogether\settings.json`.
