@@ -3,6 +3,7 @@ Mod for Casualties Unknown that lets you chain people together
 
 ## Installation instructions
 Download the mod from the [Nexus](https://www.nexusmods.com/scavprototype/mods/422?tab=files) or the releases tab. Unzip and copy the BepInEx folder and paste it directly into the folder that opens from browse local files.
+All players need to install the mod for it to work.
 
 ## Usage
 
@@ -27,6 +28,7 @@ Lets you change chain physics settings at runtime. Changes are not persisted.
 
 ## Chain physics settings
 Once you first load up the game, a settings.json file is generated in the same directory as the mod .dll, `BepInEx\plugins\ChainedTogether\settings.json`.
+The settings that are used are from the host.
 
 | Property                  | Description                                                                                                                                                          |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
