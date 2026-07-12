@@ -5,6 +5,7 @@ Mod for Casualties Unknown that lets you chain people together
 Download the mod from the [Nexus](https://www.nexusmods.com/scavprototype/mods/422?tab=files) or the releases tab. Unzip and copy the BepInEx folder and paste it directly into the folder that opens from browse local files.
 All players need to install the mod for it to work.
 
+Note: It is suggested to disable LayerFinishKeepXOffset so players spawn in the same place when entering a new layer.
 ## Usage
 
 ```
